@@ -47,17 +47,12 @@ h2 {
 }
 
 .footer {
-    background-color: dimgray;
+    background-color: dimgray; 
     color: white;
 }
 
-.footer ul li  {
-   list-style-type: none;
-   display: inline;
-}
-
-.footer ul li a {
-    color: white;
+.footer p a  {
+   color: white;
 }
 
 .footer p {
