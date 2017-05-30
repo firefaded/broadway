@@ -45,3 +45,22 @@ h2 {
     background-image: url("../images/the-flatiron-building.png");
     color: white;
 }
+
+.footer {
+    background-color: dimgray;
+    color: white;
+}
+
+.footer ul li  {
+   list-style-type: none;
+   display: inline;
+}
+
+.footer ul li a {
+    color: white;
+}
+
+.footer p {
+    font-size: 11px;
+    display: inline;
+}
